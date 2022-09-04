@@ -1,4 +1,4 @@
-# Financial-Reporting---Power-BI
+# Financial-Reporting--Power-BI
 
 This Power BI is the result of a Udemy course in which you do a financial report. Some objectives of make this report are: 
   * Understand how to use the right relationships in your models
